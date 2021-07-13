@@ -86,12 +86,3 @@ class _Name extends StatelessWidget {
     );
   }
 }
-
-class Test extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      child: Text('Magic Cards'),
-    );
-  }
-}
